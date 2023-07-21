@@ -8,8 +8,8 @@
 	justify-content:center;
 	align-items:center;
 }
-.flex{
-		display:flex;
+.holder{
+	display:flex;
 	justify-content:center;
 	align-items:center;
 }
